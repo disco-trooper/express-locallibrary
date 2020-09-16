@@ -1,4 +1,4 @@
-<h1 align="center">xpress-locallibrary</h1>
+<h1 align="center">express-locallibrary</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-14.10.1-blue.svg" />
